@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases>
+	<testcase>
+		<logout>true</logout>
+	</testcase>
+</testcases>

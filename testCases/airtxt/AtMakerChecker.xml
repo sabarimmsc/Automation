@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases>
+	<testcase url="http://10.20.51.34:8280/Dealer">
+		<username>rajesh</username>
+		<password>raj123</password>
+	</testcase>
+</testcases>

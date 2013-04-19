@@ -1,0 +1,20 @@
+Status code of Login page: 200
+******************************************************************
+Status code of Login page: 200
+******************************************************************
+Status code of Send SMS -  Manual: 200
+******************************************************************
+delivery: domestic
+Domestic SenderId: veltii
+Mobile Numbers: 
+9976571418
+8015411663
+9976571418
+8015411663
+
+******************************************************************
+Makerchecker Account Login with
+******************************************************************
+Username: reselp2
+Password: reselp123
+Status: User successfully logged out

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases>
+	<testcase url="http://10.20.51.34:8280/quick.do">
+		<quickMessage>quickMessage</quickMessage>
+		<activityName>true</activityName>
+		<domestic senderId="testin">
+			<domesticValue>true</domesticValue>
+		</domestic>
+		<global senderId="Global">
+			<globalValue>false</globalValue>
+		</global>
+		<mobile>
+			<number>9976571418</number>
+			<number>8015411663</number>
+			<number>9976571418</number>
+			<number>8015411663</number>
+		</mobile>
+		<language>Multi-Lingual</language>
+		<message>Sample message for Testing</message>
+		<schedule type="false">
+			<date>10/02/2013</date>
+			<hrs>14</hrs>
+			<min>40</min>
+		</schedule>
+		<proceed>true</proceed>
+		<send>true</send>
+	</testcase>
+</testcases>

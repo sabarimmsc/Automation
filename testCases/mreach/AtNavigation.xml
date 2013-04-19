@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases>
+	<navigation>http://10.20.51.33/quick.do</navigation>
+	<navigation>http://10.20.51.33/group.do</navigation>
+	<navigation>http://10.20.51.33/fmm.do</navigation>
+	<navigation>http://10.20.51.33/fom.do</navigation>
+	<navigation>http://10.20.51.33/tem.do</navigation>
+	<navigation>http://10.20.51.33/SchedItemsAction.do</navigation>
+	<navigation>http://10.20.51.33/blockoutSMS.do</navigation>
+	<navigation>http://10.20.51.33/groupList.do</navigation>
+	<navigation>http://10.20.51.33/groupEditView.do</navigation>
+	<navigation>http://10.20.51.33/mobileSearch.do</navigation>
+	<navigation>http://10.20.51.33/SenderIdView.do</navigation>
+	<navigation>http://10.20.51.33/SenderIdNew.do</navigation>
+	<navigation>http://10.20.51.33/ViewUser.do?action=ViewUser</navigation>
+	<navigation>http://10.20.51.33/createuserview.do?action=CreateUser</navigation>
+	<navigation>http://10.20.51.33/viewDealers.do?action=active</navigation>
+	<navigation>http://10.20.51.33/SummaryReportAction.do</navigation>
+	<navigation>http://10.20.51.33/SummaryReportSenderIDAction.do</navigation>
+	<navigation>http://10.20.51.33/DetailedTrsnReportAction.do</navigation>
+	<navigation>http://10.20.51.33/TagNameTrsnReportAction.do</navigation>
+	<navigation>http://10.20.51.33/ResellerDetailedTrsnReportAction.do</navigation>
+	<navigation>http://10.20.51.33/scheduledReportAction.do</navigation>
+	<navigation>http://10.20.51.33/ResellerSummaryReportAction.do</navigation>
+	<navigation>http://10.20.51.33/SenderIdNew.do</navigation>
+	<navigation>http://10.20.51.33/SenderIdPending.do</navigation>
+	<navigation>http://10.20.51.33/creditPurchaseInfo.do</navigation>
+	<navigation>http://10.20.51.33/uploadStatusInfo.do</navigation>
+	<navigation>http://10.20.51.33/downloadCenter.do</navigation>
+	<navigation>http://10.20.51.33/uploadSubscriberStatusInfo.do</navigation>
+	<navigation>http://10.20.51.33/TemplateAction.do</navigation>
+	<navigation>http://10.20.51.33/myAccount.do?tabs=0</navigation>
+	<navigation>http://10.20.51.33/jsp/changePassword.jsp</navigation>
+	<navigation>http://10.20.51.33/jsp/Coverage.jsp</navigation>
+	<navigation>http://10.20.51.33/ContactDealer.do</navigation>
+	<navigation>http://10.20.51.33/FAQ.do</navigation>
+</testcases>
+

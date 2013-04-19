@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases>
+	<testcase url="http://10.20.51.33/">
+		<username>reselp2</username>
+		<password>reselp123</password>
+		<fromdate>09/04/2013</fromdate>
+		<comments>Approving all request</comments>
+		<task>Approve</task>
+	</testcase>
+</testcases>

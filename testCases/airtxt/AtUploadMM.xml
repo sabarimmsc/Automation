@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases>
+	<testcase url="http://10.20.51.34:8280/fmm.do">
+		<uploadFileMM>uploadFileMobile</uploadFileMM>
+		<activityName>true</activityName>
+		<domestic senderId="testin">
+			<domesticValue>true</domesticValue>
+		</domestic>
+		<global senderId="Global">
+			<globalValue>false</globalValue>
+		</global>
+		<files>
+			<file delimiter=",">D:\Airtxt_data\mm - Comma.csv</file>
+			<file delimiter=",">D:\Airtxt_data\mm - Comma.txt</file>
+			<file delimiter="|">D:\Airtxt_data\mm - pipe.csv</file>
+			<file delimiter="|">D:\Airtxt_data\mm - pipe.txt</file>  
+			<file delimiter="\t">D:\Airtxt_data\mm - tab.csv</file>
+			<file delimiter="\t">D:\Airtxt_data\mm - tab.txt</file>
+			<file delimiter="">D:\Airtxt_data\mm.xls</file>
+			<file delimiter="">D:\Airtxt_data\mm.xlsx</file>
+			<file delimiter="">D:\Airtxt_data\mm.zip</file> 
+		</files>
+		<language>English</language>
+		<message>Sample message for Testing</message>
+		<schedule type="false">
+			<date>10/02/2013</date>
+			<hrs>14</hrs>
+			<min>40</min>
+		</schedule>
+		<proceed>true</proceed>
+		<send>true</send>
+	</testcase>
+</testcases>

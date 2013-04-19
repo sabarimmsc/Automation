@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases>
+	<testcase project="mreach">
+		<login>true</login>
+		<quickMsg>true</quickMsg>
+		<groupMsg>false</groupMsg>
+		<uploadMobile>false</uploadMobile>
+		<uploadMM>false</uploadMM>
+		<templateMsg>false</templateMsg>
+		<makerChecker>false</makerChecker>
+		<navigation>true</navigation>
+		<logout>true</logout>
+	</testcase>
+</testcases>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<properties>
+	<exclusionList>Exclusive1</exclusionList>
+	<msgCategory>Transactional</msgCategory>
+	<throttling type="true">
+		<size>10</size>
+		<time>2min</time>
+	</throttling>
+</properties>

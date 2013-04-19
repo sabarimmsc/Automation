@@ -1,0 +1,190 @@
+Status code of Login page: 200
+******************************************************************
+Status code of Login page: 200
+******************************************************************
+Status code of Send SMS -  Manual: 200
+******************************************************************
+delivery: domestic
+Domestic SenderId: veltii
+Mobile Numbers: 
+9976571418
+8015411663
+9976571418
+8015411663
+Status code of Send SMS -  Group: 200
+******************************************************************
+Activity Name: Group-tvvhya
+delivery: domestic
+Domestic SenderId: veltii
+delivery: global
+Global SenderId: global
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  -  File Upload [ Only Mobile ]: 200
+******************************************************************
+Activity Name: UpldM-m-csv-sksfpk
+File: D:\Airtxt_data\m.csv
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  -  File Upload [ Only Mobile ]: 200
+******************************************************************
+Activity Name: UpldM-m-txt-dvwugc
+File: D:\Airtxt_data\m.txt
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  -  File Upload [ Only Mobile ]: 200
+******************************************************************
+Activity Name: UpldM-m-xls-whshai
+File: D:\Airtxt_data\m.xls
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  -  File Upload [ Only Mobile ]: 200
+******************************************************************
+Activity Name: UpldM-m-xlsx-tmxpoy
+File: D:\Airtxt_data\m.xlsx
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  -  File Upload [ Only Mobile ]: 200
+******************************************************************
+Activity Name: UpldM-m-zip-voukfv
+File: D:\Airtxt_data\m.zip
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS -  File Upload [ Mobile + Message ]: 200
+******************************************************************
+Activity Name: UpldMM-mm-xlsx-dgckez
+File: D:\Airtxt_data\mm.xlsx
+delimiter: 
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS -  File Upload [ Mobile + Message ]: 200
+******************************************************************
+Activity Name: UpldMM-mm - pipe-csv-sbhfnb
+File: D:\Airtxt_data\mm - pipe.csv
+delimiter: |
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS -  File Upload [ Mobile + Message ]: 200
+******************************************************************
+Activity Name: UpldMM-mm - Comma-csv-xaeuiw
+File: D:\Airtxt_data\mm - Comma.csv
+delimiter: ,
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS -  File Upload [ Mobile + Message ]: 200
+******************************************************************
+Activity Name: UpldMM-mm-xls-umpmqd
+File: D:\Airtxt_data\mm.xls
+delimiter: 
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS -  File Upload [ Mobile + Message ]: 200
+******************************************************************
+Activity Name: UpldMM-mm - pipe-txt-qyequm
+File: D:\Airtxt_data\mm - pipe.txt
+delimiter: |
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS -  File Upload [ Mobile + Message ]: 200
+******************************************************************
+Activity Name: UpldMM-mm-zip-xmaplv
+File: D:\Airtxt_data\mm.zip
+delimiter: 
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS -  File Upload [ Mobile + Message ]: 200
+******************************************************************
+Activity Name: UpldMM-mm - Comma-txt-jlesvl
+File: D:\Airtxt_data\mm - Comma.txt
+delimiter: ,
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  - File Upload [ Template based Messaging]: 200
+******************************************************************
+Activity Name: TmpMsg-mm - pipe-csv-qpxqrb
+File: D:\Airtxt_data\mm - pipe.csv
+delimiter: |
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  - File Upload [ Template based Messaging]: 200
+******************************************************************
+Activity Name: TmpMsg-mm - Comma-csv-fdurcb
+File: D:\Airtxt_data\mm - Comma.csv
+delimiter: ,
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  - File Upload [ Template based Messaging]: 200
+******************************************************************
+Activity Name: TmpMsg-mm-xls-uwefvy
+File: D:\Airtxt_data\mm.xls
+delimiter: 
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  - File Upload [ Template based Messaging]: 200
+******************************************************************
+Activity Name: TmpMsg-mm - pipe-txt-qmqmfg
+File: D:\Airtxt_data\mm - pipe.txt
+delimiter: |
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  - File Upload [ Template based Messaging]: 200
+******************************************************************
+Activity Name: TmpMsg-mm-zip-xhckgu
+File: D:\Airtxt_data\mm.zip
+delimiter: 
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+Status code of Send SMS  - File Upload [ Template based Messaging]: 200
+******************************************************************
+Activity Name: TmpMsg-mm - Comma-txt-znxyhs
+File: D:\Airtxt_data\mm - Comma.txt
+delimiter: ,
+delivery: domestic
+Domestic SenderId: veltii
+Throttling Size: 10
+Throttling Time: 2min
+
+******************************************************************
+Makerchecker Account Login with
+******************************************************************
+Username: reselp2
+Password: reselp123
+Selecting All
+Approve
+Confirm to Approve
+******************************************************************
+Status: User successfully logged out

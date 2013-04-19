@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases>
+	<navigation>http://10.20.51.34:8280/quick.do</navigation>
+	<navigation>http://10.20.51.34:8280/group.do</navigation>
+	<navigation>http://10.20.51.34:8280/fmm.do</navigation>
+	<navigation>http://10.20.51.34:8280/fom.do</navigation>
+	<navigation>http://10.20.51.34:8280/tem.do</navigation>
+	<navigation>http://10.20.51.34:8280/SchedItemsAction.do</navigation>
+	<navigation>http://10.20.51.34:8280/blockoutSMS.do</navigation>
+	<navigation>http://10.20.51.34:8280/groupList.do</navigation>
+	<navigation>http://10.20.51.34:8280/groupEditView.do</navigation>
+	<navigation>http://10.20.51.34:8280/mobileSearch.do</navigation>
+	<navigation>http://10.20.51.34:8280/SenderIdView.do</navigation>
+	<navigation>http://10.20.51.34:8280/SenderIdNew.do</navigation>
+	<navigation>http://10.20.51.34:8280/TemplateAction.do</navigation>
+	<navigation>http://10.20.51.34:8280/TemplateNew.do</navigation>
+	<navigation>http://10.20.51.34:8280/SummaryReportAction.do</navigation>
+	<navigation>http://10.20.51.34:8280/SummaryReportSenderIDAction.do</navigation>
+	<navigation>http://10.20.51.34:8280/DetailedTrsnReportAction.do</navigation>
+	<navigation>http://10.20.51.34:8280/TagNameTrsnReportAction.do</navigation>
+	<navigation>http://10.20.51.34:8280/traiRejectedCount.do</navigation>
+	<navigation>http://10.20.51.34:8280/traiRejectedCount.do</navigation>
+	<navigation>http://10.20.51.34:8280/SenderIdPending.do</navigation>
+	<navigation>http://10.20.51.34:8280/uploadStatusInfo.do</navigation>
+	<navigation>http://10.20.51.34:8280/downloadCenter.do</navigation>
+	<navigation>http://10.20.51.34:8280/uploadSubscriberStatusInfo.do</navigation>
+	<navigation>http://10.20.51.34:8280/myAccount.do?tabs=0</navigation>
+	<navigation>http://10.20.51.34:8280/jsp/changePassword.jsp</navigation>
+	<navigation>http://10.20.51.34:8280/jsp/Coverage.jsp</navigation>
+	<navigation>http://10.20.51.34:8280/ContactDealer.do</navigation>
+	<navigation>http://10.20.51.34:8280/FAQ.do</navigation>
+</testcases>
+

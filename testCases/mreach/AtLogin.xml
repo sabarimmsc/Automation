@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<testcases url="http://10.20.51.33/">
+	<testcase type="correct">
+		<username type="text">userp21</username>
+		<password type="password">user1234</password>
+		<submit type="submit">true</submit>
+		<logout>false</logout>
+	</testcase>
+	<!-- <testcase type="incorrect">
+		<username type="text">raj3</username>
+		<password type="password">rajesh123</password>
+		<submit type="submit">false</submit>
+		<logout>true</logout>
+	</testcase>
+	<testcase type="incorrect">
+		<username type="text">raj33</username>
+		<password type="password">rajesh1234</password>
+		<submit type="submit">true</submit>
+		<logout>true</logout>
+	</testcase> -->
+</testcases>
